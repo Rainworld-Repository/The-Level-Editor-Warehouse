@@ -13,6 +13,9 @@
 [#nm:"Pinecones", #tp:"standardPlant", #vars:3, #pxlSz:point(30,30), #pickColor:1, #hasGrad:1, #randomFlip:1, #placeAmt:3, #szVar:[0.8, 1.2], #rotVar:75, #strengthAffectSize:0, #strengthAffectVar:0, #rootAmt:4]
 [#nm:"Wall Bramble", #tp:"wall", #vars:7, #pxlSz:point(40,40), #pickColor:1, #hasGrad:1, #randomFlip:1, #randomRotat: 1, #placeAmt: 2, #szVar:[1, 1.4], #strengthAffectSize: 1, #can3D: 2]
 [#nm:"Spiderlily", #tp:"standardPlant", #vars:10, #pxlSz:point(20,20), #pickColor:1, #randomFlip:1, #hasGrad:1, #szVar:[0.5, 1.2], #rootAmt:2]
+[#nm:"BarnacleGrass", #tp:"standardPlant", #vars:10, #pxlSz:point(15,15), #randomFlip:1, #pickColor:1, #hasGrad:1, #placeAmt:6, #szVar:[0.4, 1.2], #strengthAffectSize:1, #rootAmt:3]
+[#nm:"OrbitPlant", #tp:"standardPlant", #vars:25, #pxlSz:point(80,80), #randomFlip:1, #pickColor:1, #hasGrad:1, #placeAmt:1, #szVar:[01, 1], #strengthAffectSize:1, #rootAmt:8]
+[#nm:"Saxifringe", #tp:"standardPlant", #vars:10, #pxlSz:point(60,60), #pickColor:1, #hasGrad:1, #randomFlip:1, #placeAmt:5, #szVar:[0.8, 1], #rotVar:10, #strengthAffectSize:0, #strengthAffectVar:0, #rootAmt:5]
 
 -Ludos Melts
 [#nm: "SlimeStreaks", #tp:"texture", #vars:120, #pxlSz:point(2, 40), #placeAmt:20, #strengthAffectVar:0, #pickColor:0, #hasGrad:0, #randomFlip:0, #bleed:9, #clrMask:7, #affectOpenAreas:0.5, #requireSolid:1]

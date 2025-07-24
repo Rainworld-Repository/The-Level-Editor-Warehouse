@@ -740,6 +740,7 @@
 [#nm:"BArch2", #tp:"soft", #depth:10, #round:1, #contourExp:0.8, #selfShade:1, #highLightBorder:0.4, #depthAffectHilites:0.4, #shadowBorder:0.9, #smoothShading:2, #tags:[], #notes:[]]
 [#nm:"WindArch1", #tp:"soft", #depth:10, #round:1, #contourExp:0.8, #selfShade:1, #highLightBorder:0.4, #depthAffectHilites:0.4, #shadowBorder:0.9, #smoothShading:2, #tags:[], #notes:[]]
 [#nm:"WindArch2", #tp:"soft", #depth:10, #round:1, #contourExp:0.8, #selfShade:1, #highLightBorder:0.4, #depthAffectHilites:0.4, #shadowBorder:0.9, #smoothShading:2, #tags:[], #notes:[]]
+[#nm:"DesertWindmill3", #tp:"standard", #colorTreatment:"standard", #bevel:2, #sz:point(9,9), #repeatL:[1,1,1,1,1], #tags:["randomRotat"], #layerExceptions:[], #notes:[]]
 
 -["Shortcut Props", color(180, 255, 80)]
 [#nm:"Shortcut Square", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
@@ -995,6 +996,10 @@
 [#nm:"mscleak", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(70, 40), #repeatL:[1], #tags:["effectColorA", "effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[]]
 [#nm:"BallBALLBALLLBALLSS", #tp:"soft", #depth:15, #round:1, #contourExp:0.8, #selfShade:1, #highLightBorder:0.4, #depthAffectHilites:0.2, #shadowBorder:0.9, #smoothShading:2, #tags:[], #notes:[]]
 [#nm:"Prop Test", #tp:"soft", #depth:6, #round:1, #contourExp: 1, #selfShade:1, #highLightBorder:1, #depthAffectHilites:0.6, #shadowBorder:0.8, #smoothShading:6, #tags:[],#notes:[]]
+[#nm:"EdgeProp 2px Solid", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #vars:10, #random:0, #tags:["drawLast"], #layerExceptions:[], #notes:["junctions past 6th variation"]]
+[#nm:"EdgeProp 2px L1", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1], #vars:10, #random:0, #tags:["drawLast"], #layerExceptions:[], #notes:["junctions past 6th variation"]]
+[#nm:"EdgeProp 4px Solid", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #vars:10, #random:0, #tags:["drawLast"], #layerExceptions:[], #notes:["junctions past 6th variation"]]
+[#nm:"EdgeProp 4px L1", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1], #vars:10, #random:0, #tags:["drawLast"], #layerExceptions:[], #notes:["junctions past 6th variation"]]
 
 -["Silly", color(80, 255, 80)]
 [#nm:"IceBomb", #tp:"standard", #colorTreatment:"standard", #sz:point(31,28), #repeatL:[1], #tags:[], #layerExceptions:[], #notes:[]]
@@ -1035,3 +1040,13 @@
 [#nm:"HopePillar2", #tp:"standard", #colorTreatment:"standard", #sz:point(75,100), #repeatL:[1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"matt", #tp:"standard", #colorTreatment:"standard", #sz:point(30,33), #repeatL:[3], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"SlugFlex", #tp:"standard", #colorTreatment:"standard", #sz:point(18,31), #repeatL:[3], #tags:["notTrashProp"], #layerExceptions:[], #notes:[]]
+
+-["Custom Rope Props", color(180, 23, 255)]
+[#nm:"Plain Pipe Rope",#tp:"customRope", #colorTreatment:"standard", #depth:10, #pixelSize:point(20, 20), #segmentLength:10, #repeatL:[1,1,1,4,1,1,1], #vars:1, #random:0, #tags:[], #notes:[], #collisionDepth:3, #segRad:2.8, #grav:0.8, #friction:0.7, #airFric:0.9, #stiff:1, #previewColor:color(53, 110, 53), #previewEvery:3, #edgeDirection:0.1, #rigid:0.2, #selfPush:3.2, #sourcePush:0]
+
+[#nm:"Pipe Rope",#tp:"customRope", #colorTreatment:"standard", #depth:10, #pixelSize:point(20, 20), #segmentLength:10, #repeatL:[1,1,1,4,1,1,1], #vars:1, #random:0, #tags:[], #notes:[], #collisionDepth:3, #segRad:2.8, #grav:0.8, #friction:0.7, #airFric:0.9, #stiff:1, #previewColor:color(200, 110, 200), #previewEvery:3, #edgeDirection:0.1, #rigid:0.2, #selfPush:3.2, #sourcePush:0]
+
+[#nm:"Thick PipeRope",#tp:"customRope", #colorTreatment:"standard", #depth:10, #pixelSize:point(40, 40), #segmentLength:20, #repeatL:[1,1,1,4,1,1,1], #vars:1, #random:0, #tags:[], #notes:[], #collisionDepth:3, #segRad:2.8, #grav:0.8, #friction:0.7, #airFric:0.9, #stiff:1, #previewColor:color(110, 110, 110), #previewEvery:3, #edgeDirection:0.1, #rigid:0.2, #selfPush:3.2, #sourcePush:0]
+
+[#nm:"BiggerPipeRope",#tp:"customRope", #colorTreatment:"standard", #depth:20, #pixelSize:point(140, 20), #segmentLength:20, #repeatL:[1,1,1,1,1,1,1,1,1,1,   1,1,1,1,1,1,1,1,1,1], #vars:1, #random:0, #tags:[], #notes:[], #collisionDepth:3, #segRad:2.8, #grav:0.8, #friction:0.7, #airFric:0.9, #stiff:1, #previewColor:color(110, 110, 110), #previewEvery:3, #edgeDirection:0.1, #rigid:0.2, #selfPush:3.2, #sourcePush:0]
+[#nm:"Rough Tube", #tp:"customRope", #colorTreatment:"standard", #bevel:0, #depth:3, #pixelSize:point(5, 10), #segmentLength:5, #repeatL:[1,1,1], #vars:6, #random:0, #tags:[], #notes:[], #collisionDepth:3, #segRad:6.5, #grav:0.88, #friction:0.7, #airFric:0.9, #stiff:1, #previewColor:color(53, 8, 134), #previewEvery:3, #edgeDirection:0, #rigid:0.2, #selfPush:1.2, #sourcePush:0]
