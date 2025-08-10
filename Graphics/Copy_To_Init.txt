@@ -1,1 +1,0 @@
--["New Assets", color(180, 0, 255)]

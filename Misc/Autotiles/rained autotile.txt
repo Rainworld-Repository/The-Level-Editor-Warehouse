@@ -1,0 +1,18 @@
+[Inset Pipes:Pipes]
+ld=Inset Pipe WS
+lu=Inset Pipe WN
+rd=Inset Pipe ES
+ru=Inset Pipe EN
+vertical=Vertical Inset Pipe
+horizontal=Horizontal Inset Pipe
+allowJunctions=true
+tr=Inset Pipe TJunct E
+tu=Inset Pipe TJunct N
+tl=Inset Pipe TJunct W
+td=Inset Pipe TJunct S
+x=Inset Pipe XJunct
+placeCaps=false
+capRight=Inset Pipe Inwards E
+capUp=Inset Pipe Inwards S
+capLeft=Inset Pipe Inwards W
+capDown=Inset Pipe Inwards N

@@ -17,7 +17,32 @@
 [#nm:"OrbitPlant", #tp:"standardPlant", #vars:25, #pxlSz:point(80,80), #randomFlip:1, #pickColor:1, #hasGrad:1, #placeAmt:1, #szVar:[01, 1], #strengthAffectSize:1, #rootAmt:8]
 [#nm:"Saxifringe", #tp:"standardPlant", #vars:10, #pxlSz:point(60,60), #pickColor:1, #hasGrad:1, #randomFlip:1, #placeAmt:5, #szVar:[0.8, 1], #rotVar:10, #strengthAffectSize:0, #strengthAffectVar:0, #rootAmt:5]
 
--Ludos Melts
+-Mer's Plants
+[#nm:"Capricho Death", #tp:"standardPlant", #vars:12, #pxlSz:point(40,80), #pickColor:1, #hasGrad:1, #randomFlip:1, #placeAmt:2, #szVar:[0.3, 1], #rotVar:15, #strengthAffectSize:1, #strengthAffectVar:0, #rootAmt:3]
+
+[#nm:"Ashoptic Plants", #tp:"standardPlant", #vars:12, #pxlSz:point(40,120), #pickColor:1, #hasGrad:1, #randomFlip:0, #placeAmt:2, #szVar:[0.4, 1], #rotVar:4, #strengthAffectSize:0, #strengthAffectVar:1, #rootAmt:2]
+
+[#nm:"Rod Grower", #tp:"grower", #vars:5, #pxlSz:point(20,60), #pickColor:1, #hasGrad:1, #randomFlip:1, #initRotVar:25, #segmentRotVar:80, #segmentRotPull:0.5, #segmentMoveAmt: 40, #effectFadeOut:0.85, #effectFadeOut2:0.15, #tipGraf:"SpeadHeads", #tipPxlSz:point(40,40), #tipVars:4, #tipMoveAmt:36]
+
+[#nm:"Straight Rod Grower", #tp:"grower", #vars:5, #pxlSz:point(20,60), #pickColor:0, #hasGrad:0, #randomFlip:1, #initRotVar:50, #segmentRotVar:10, #segmentRotPull:0.9, #segmentMoveAmt: 40, #effectFadeOut:0.85, #effectFadeOut2:0.15, #tipGraf:"SpeadHeads", #tipPxlSz:point(40,40), #tipVars:4, #tipMoveAmt:50]
+
+[#nm:"Oculith Clinger", #tp:"wall", #vars:10, #pxlSz:point(80,80), #pickColor:0, #hasGrad:0, #randomRotat:1, #randomFlip:1, #requireSolid:1, #placeAmt:2, #szVar:[0.4, 1], #strengthAffectSize:0, #strengthAffectVar:0, #can3D:2, #outline:0]
+
+[#nm:"Lurking Gyre Grower", #tp:"grower", #vars:7, #pxlSz:point(40,80), #pickColor:0, #hasGrad:0, #randomFlip:1, #initRotVar:20, #segmentRotVar:30, #segmentRotPull:0.6, #segmentMoveAmt: 72, #effectFadeOut:0.85, #effectFadeOut2:0.15, #szChange: [0.6, 1, 0.3], #tipGraf:"GyreTips", #tipPxlSz:point(60,100), #tipVars:4, #tipMoveAmt:90]
+
+[#nm:"Rod Hangers", #tp:"hanger", #vars:6, #pxlSz:point(40,60), #pickColor:0, #randomFlip:1, #initRotVar:60, #strengthAffectSize:0, #strengthAffectVar:0, #segmentRotVar:10, #segmentRotPull:0.99, #segmentMoveAmt: 45, #szChange:[0.4,1, 0.55]]
+
+[#nm:"Watchers", #tp:"standardPlant", #vars:18, #pxlSz:point(120,300), #pickColor:1, #hasGrad:1, #randomFlip:1, #placeAmt:3, #szVar:[0.25, 0.76], #rotVar:35, #strengthAffectSize:0, #strengthAffectVar:0, #rootAmt:4]
+
+[#nm:"ZigZag Grower", #tp:"grower", #vars:4, #pxlSz:point(40,80), #pickColor:1, #hasGrad:0, #randomFlip:1, #initRotVar:40, #segmentRotVar:30, #segmentRotPull:0.6, #segmentMoveAmt:60, #effectFadeOut:0.4, #effectFadeOut2:0.15, #szChange:[0.3, 2, 0.8], #tipGraf:"", #tipPxlSz:point(60,100), #tipVars:0, #tipMoveAmt:90]
+
+[#nm:"Weirnde", #tp:"wall", #vars:10, #pxlSz:point(80,80), #pickColor:0, #hasGrad:0, #randomRotat:1, #randomFlip:1, #requireSolid:1, #placeAmt:2, #szVar:[0.05, 0.6], #strengthAffectSize:1, #strengthAffectVar:1, #can3D:1, #outline:0]
+
+[#nm:"Sharpisulca Grower", #tp:"grower", #vars:10, #pxlSz:point(30,30), #pickColor:1, #hasGrad:0, #randomFlip:1, #initRotVar:40, #segmentRotVar:40, #segmentRotPull:0.8, #segmentMoveAmt:18, #effectFadeOut:0.4, #effectFadeOut2:0.15, #szChange:[0.3, 1, 0.23], #tipGraf:"", #tipPxlSz:point(30,30), #tipVars:1, #tipMoveAmt:1]
+
+[#nm:"Orbisulca Grower", #tp:"grower", #vars:10, #pxlSz:point(30,30), #pickColor:0, #hasGrad:0, #randomFlip:1, #initRotVar:20, #segmentRotVar:5, #segmentRotPull:0.99, #segmentMoveAmt:18, #effectFadeOut:0.4, #effectFadeOut2:0.15, #szChange:[1, 1, 0.1], #tipGraf:"RadioPlantTips", #tipPxlSz:point(60,60), #tipVars:7, #tipMoveAmt:55]
+
+-Texture Effects
 [#nm: "SlimeStreaks", #tp:"texture", #vars:120, #pxlSz:point(2, 40), #placeAmt:20, #strengthAffectVar:0, #pickColor:0, #hasGrad:0, #randomFlip:0, #bleed:9, #clrMask:7, #affectOpenAreas:0.5, #requireSolid:1]
 [#nm: "RedRust", #tp:"texture", #vars:32, #pxlSz:point(26, 22), #placeAmt:20, #strengthAffectVar:0, #pickColor:0, #hasGrad:0, #randomFlip:0, #bleed:9, #clrMask:2, #affectOpenAreas:0.5, #requireSolid:1]
 [#nm: "BlueRust", #tp:"texture", #vars:32, #pxlSz:point(26, 22), #placeAmt:20, #strengthAffectVar:0, #pickColor:0, #hasGrad:0, #randomFlip:0, #bleed:9, #clrMask:2, #affectOpenAreas:0.5, #requireSolid:1]
@@ -25,6 +50,7 @@
 [#nm: "RedRustStreaks", #tp:"texture", #vars:32, #pxlSz:point(26, 40), #placeAmt:20, #strengthAffectVar:0, #pickColor:0, #hasGrad:0, #randomFlip:0, #bleed:9, #clrMask:2, #affectOpenAreas:0.5, #requireSolid:1]
 [#nm: "BlueRustStreaks", #tp:"texture", #vars:32, #pxlSz:point(26, 40), #placeAmt:20, #strengthAffectVar:0, #pickColor:0, #hasGrad:0, #randomFlip:0, #bleed:9, #clrMask:2, #affectOpenAreas:0.5, #requireSolid:1]
 [#nm: "SplotRustStreaks", #tp:"texture", #vars:64, #pxlSz:point(26, 40), #placeAmt:20, #strengthAffectVar:0, #pickColor:0, #hasGrad:0, #randomFlip:0, #bleed:9, #clrMask:2, #affectOpenAreas:0.5, #requireSolid:1]
+[#nm:"SunRust1", #tp:"texture", #vars:20, #pxlSz:point(16, 16), #placeAmt:5, #strengthAffectVar:0, #pickColor:0, #hasGrad:0, #randomFlip:1, #bleed:9, #clrMask:7, #affectOpenAreas:0.5, #requireSolid:1]
 
 -Silly
 [#nm:"slugeffect", #tp:"grower", #vars:13, #pxlSz:point(20,50), #pickColor:1, #hasGrad:1, #randomFlip:1, #initRotVar:50, #segmentRotVar:30, #segmentRotPull:0.75, #segmentMoveAmt: 30, #effectFadeOut:0.85, #effectFadeOut2:0.15]
