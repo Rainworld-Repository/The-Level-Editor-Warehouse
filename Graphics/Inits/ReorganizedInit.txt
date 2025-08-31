@@ -1109,6 +1109,7 @@
 [#nm:"Wing Screw L", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,5], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
 [#nm:"Wing Screw R", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,5], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
 -["Secondary Metal", color(180, 255, 255)]
+[#nm:"Chain Holder", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,2,2,4], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["Chain Holder"]]
 [#nm:"Big Chain Vertical", #sz:point(1,3), #specs:[1,1,1], #specs2:0, #tp:"voxelStructRandomDisplaceVertical", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Big Chain Horizontal", #sz:point(3,1), #specs:[1,1,1], #specs2:0, #tp:"voxelStructRandomDisplaceHorizontal", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Giant Spring", #sz:point(5,2), #specs:[0,0,0,0,0,0,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp", "nonSolid"]]
