@@ -16,6 +16,7 @@
 [#nm:"BarnacleGrass", #tp:"standardPlant", #vars:10, #pxlSz:point(15,15), #randomFlip:1, #pickColor:1, #hasGrad:1, #placeAmt:6, #szVar:[0.4, 1.2], #strengthAffectSize:1, #rootAmt:3]
 [#nm:"OrbitPlant", #tp:"standardPlant", #vars:25, #pxlSz:point(80,80), #randomFlip:1, #pickColor:1, #hasGrad:1, #placeAmt:1, #szVar:[01, 1], #strengthAffectSize:1, #rootAmt:8]
 [#nm:"Saxifringe", #tp:"standardPlant", #vars:10, #pxlSz:point(60,60), #pickColor:1, #hasGrad:1, #randomFlip:1, #placeAmt:5, #szVar:[0.8, 1], #rotVar:10, #strengthAffectSize:0, #strengthAffectVar:0, #rootAmt:5]
+[#nm:"Plate Sprout", #tp:"standardPlant", #vars:7, #pxlSz:point(70,70), #pickColor:1, #hasGrad:1, #randomFlip:1, #placeAmt:5, #szVar:[0.8, 1], #rotVar:10, #strengthAffectSize:0, #strengthAffectVar:0, #rootAmt:5]
 
 -Mer's Plants
 [#nm:"Capricho Death", #tp:"standardPlant", #vars:12, #pxlSz:point(40,80), #pickColor:1, #hasGrad:1, #randomFlip:1, #placeAmt:2, #szVar:[0.3, 1], #rotVar:15, #strengthAffectSize:1, #strengthAffectVar:0, #rootAmt:3]
