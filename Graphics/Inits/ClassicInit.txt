@@ -4547,6 +4547,13 @@
 [#nm:"medium shelter outside S", #sz:point(7,7), #specs:[1,1,1,1,1,1,1, 1,1,1,1,1,1,1, 1,1,1,1,1,1,1, 1,1,1,1,1,1,1, 1,1,1,1,1,1,1, 1,1,1,1,1,1,1, 1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 8, 1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"medium shelter outside E", #sz:point(7,7), #specs:[1,1,1,1,1,1,1, 1,1,1,1,1,1,1, 1,1,1,1,1,1,1, 1,1,1,1,1,1,1, 1,1,1,1,1,1,1, 1,1,1,1,1,1,1, 1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 8, 1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 
+-["Large Shelters", color(255, 50, 0)]
+
+[#nm:"large shelter N", #sz:point(9,10), #specs:[1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,7,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"large shelter E", #sz:point(10,9), #specs:[1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,8,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"large shelter S", #sz:point(9,10), #specs:[1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,7,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"large shelter W", #sz:point(10,9), #specs:[1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,8,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+
 -["Crawl Holes", color(180, 255, 180)]
 [#nm:"Hatch Cover", #sz:point(1,1), #specs:[6], #specs2:0, #tp:"voxelStruct", #repeatL:[2,2,4,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"crawlHole", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 9], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
