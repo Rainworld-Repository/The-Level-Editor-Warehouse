@@ -1,0 +1,5 @@
+CeilingDrips: 0.8152174
+Effects: Wasp-1-20-20, Flies-1-30-30, TinyDragonFly-1-40-40, RockFlea-1-50-50, Beetle-1-60-60, WaterGlowworm-1-70-70, LightBurn-0.7391304-80-80, 
+PlacedObjects: CustomDecal><121.3024><25.78062><-72~662~987~657~1096~24~-25~-295~0~1~0~RustB2~0.3043478~1~0.3043478~1~0.3043478~1~0.3043478~1, LightSource><689.7968><398.1945><0.05434782~Environment~677~387~-51~-438.3975~1~1, InsectGroup><607.0978><126.4244><-357~177~0~0~WaterGlowworm~1, InsectGroup><692.5507><182.9839><148~385~0~0~WaterGlowworm~1, InsectGroup><642.8005><185.2363><66~430~12~112~RockFlea~1, 
+AmbientSounds: SPOT><SO_WAT-OpenFlow.ogg><589.4156><-55.13797><0.7173913><1><587.4156><320.862><298.6447><96.64465><0><0.4804349, SPOT><SO_WAT-RunningWater.ogg><719.1986><186.2263><0.5760869><1><596.1986><79.2263><27.64465><274.6447><0><0.2739132, OMNI><SO_WAT-LilDrips.ogg><724.4438><277.7007><0.6086956><1, OMNI><SO_WAT-DripTap.ogg><724.1426><306.4187><0.6086956><1, 
+FadePalette: 9, 0.5326087

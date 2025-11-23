@@ -1,4 +1,6 @@
--Inspectnerd
+-Chroma 
+[#nm:"Pipe Growers", #tp: "grower", #vars: 12, #pxlSz: point(10, 25), #initRotVar: 60, #segmentRotVar: 60, #segmentRotPull: 0.60, #segmentMoveAmt: 22, #tipGraf: "Pipe Growers tips", #tipVars: 8, #tipPxlSz: point(10, 50), #tipMoveAmt: 47]
+[#nm:"Bamboo Pipe Growers", #tp: "grower", #vars: 12, #pxlSz: point(10, 60), #initRotVar: 20, #segmentRotVar: 50, #segmentRotPull: 0.10, #segmentMoveAmt: 57, #tipGraf: "Pipe Growers tips", #tipVars: 8, #tipPxlSz: point(10, 50), #tipMoveAmt: 47]-Inspectnerd
 [#nm:"Plate Sprout", #tp:"standardPlant", #vars:7, #pxlSz:point(70,70), #pickColor:1, #hasGrad:1, #randomFlip:1, #placeAmt:5, #szVar:[0.8, 1], #rotVar:10, #strengthAffectSize:0, #strengthAffectVar:0, #rootAmt:5]
 -LudoCrypt
 [#nm:"BlueRust", #tp:"texture", #vars:32, #pxlSz:point(26, 22), #placeAmt:20, #strengthAffectVar:0, #pickColor:0, #hasGrad:0, #randomFlip:0, #bleed:9, #clrMask:2, #affectOpenAreas:0.5, #requireSolid:1]

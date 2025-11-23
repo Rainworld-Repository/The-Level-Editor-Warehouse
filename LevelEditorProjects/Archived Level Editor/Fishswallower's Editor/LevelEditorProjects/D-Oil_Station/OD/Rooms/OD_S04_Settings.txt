@@ -1,0 +1,2 @@
+AmbientSounds: OMNI><SO_WAT-TapWater.ogg><722.1983><160.0259><0.3913043><1, OMNI><SO_IND-Turbine.ogg><728.9435><502.0506><0.3913043><1, 
+FadePalette: 9, 0.2391304

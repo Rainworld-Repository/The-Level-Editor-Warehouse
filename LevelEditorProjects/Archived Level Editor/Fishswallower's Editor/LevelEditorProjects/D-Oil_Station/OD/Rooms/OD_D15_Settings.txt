@@ -1,0 +1,6 @@
+Template: OD_SettingsTemplate_PumpG
+Grime: 0.326087
+Palette: 9
+PlacedObjects: WaterNut><462.5855><325.1808><145~309~1~9, WaterNut><413.4494><323.7348><0~0~2~3, WaterNut><578.0507><306.9832><0~0~2~3, 
+AmbientSounds: OMNI><SO_SFX-Gutleut.ogg><729.3017><491.474><0><0.1, 
+FadePalette: 11, 0.8478261

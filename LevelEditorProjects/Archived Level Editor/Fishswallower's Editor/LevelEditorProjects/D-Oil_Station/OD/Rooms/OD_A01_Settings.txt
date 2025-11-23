@@ -1,0 +1,8 @@
+CeilingDrips: 1
+Clouds: 0.4673913
+Palette: 11
+EffectColorB: 6
+PlacedObjects: InsectGroup><700.6517><47.61967><38~381~417.9999~-14~RockFlea~0.8043478, InsectGroup><734.3734><194.0952><482~592~386.9999~-98~GrassHopper~1, InsectGroup><701.5502><279.8064><617~442~106~-249~Beetle~0.5543478, InsectGroup><671.3142><297.8106><577~487~23~145~StandardFly~0.5652174, InsectGroup><646.907><306.8762><475~449~-115~-140~TinyDragonFly~0.5326087, LightSource><713.3002><756.7411><0.06521739~Environment~-673~-732~-350~-208.3975~1~1, CustomDecal><86.35876><725.3322><-12~-630~1313~-657~1307~-55~21~-470~0~1~0~RustB3~0.5~1~0.5~1~0.5~1~0.5~1, 
+AmbientSounds: SPOT><SO_IND-WeirdVent.ogg><721.4445><490.7032><0.3152174><0.4521739><708.4445><435.7031><-75.35535><-181.3553><0><0.1, SPOT><SO_IND-WinFan.ogg><887.0657><490.6723><0.2391304><1><247.0657><285.6723><-35.35534><-35.35534><0><0.1, OMNI><SO_WAT-LilDrips.ogg><713.7038><282.0554><0.7608696><1, OMNI><SO_WAT-DripTap.ogg><727.8438><309.3749><0.5543478><1, OMNI><AM_ENV-Outside.ogg><717.6966><476.4632><0.5978261><1, SPOT><SO_WAT-RunningWater.ogg><706.4486><189.9762><0.6195652><1><708.4486><63.97624><-59.35535><435.6447><0><0.1652175, 
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>RW_51 - Swaying Fronds<eA>vol<eB>0.6369569<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>716.5519<tB>280.0278<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>111, 
+FadePalette: 0, 0.2608696

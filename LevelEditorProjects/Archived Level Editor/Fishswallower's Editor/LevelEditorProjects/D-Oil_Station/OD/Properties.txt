@@ -1,0 +1,17 @@
+Palette: 39
+batDepleteCyclesMin: 2
+batDepleteCyclesMax: 7
+batDepleteCyclesMaxIfLessThanTwoLeft: 3
+batDepleteCyclesMaxIfLessThanFiveLeft: 4
+batsPerActiveSwarmRoom: 4
+overseersSpawnChance: 0.8
+overseersMin: 0
+overseersMax: 4
+Subregion: Old Drainage System
+Room Setting Templates: Inside, Transition, PumpG
+Room_Attr: OD_A04: PinkLizard-4,GreenLizard-4,BlueLizard-4,YellowLizard-4,WhiteLizard-4,RedLizard-4,BlackLizard-4,Salamander-4,CyanLizard-4,
+Room_Attr: OD_A05: PinkLizard-1,GreenLizard-1,BlueLizard-1,YellowLizard-1,WhiteLizard-1,RedLizard-1,BlackLizard-1,Salamander-1,CyanLizard-1,
+Room_Attr: OD_A09: PinkLizard-1,GreenLizard-1,BlueLizard-1,YellowLizard-1,WhiteLizard-1,RedLizard-1,BlackLizard-1,Salamander-1,CyanLizard-1,
+Room_Attr: OD_A11: PinkLizard-3,GreenLizard-3,BlueLizard-3,YellowLizard-3,WhiteLizard-3,RedLizard-3,BlackLizard-3,Salamander-3,CyanLizard-3,
+Room_Attr: OD_A12: PinkLizard-3,GreenLizard-3,BlueLizard-3,YellowLizard-3,WhiteLizard-3,RedLizard-3,BlackLizard-3,Salamander-3,CyanLizard-3,
+Room_Attr: OD_A13: PinkLizard-4,GreenLizard-4,BlueLizard-4,YellowLizard-4,WhiteLizard-4,RedLizard-4,BlackLizard-4,Salamander-4,CyanLizard-4,

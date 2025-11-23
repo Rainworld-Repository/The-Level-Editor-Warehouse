@@ -1,0 +1,33 @@
+
+
+
+red:
+if red > 90 lit, if red 0-90, shaded
+of the remaining 90, 0-29 is palette color 1, 29-60 pal col 2, 60-89 pal col 3
+of the remainder, depth 0-29
+
+green:
+0 = no effect color, no rainbow
+1 = effect color A, no rainbow
+2 = effect color B, no rainbow
+3 = white color, no rainbow
+4 = no effect color, rainbow
+5 = effect color A, rainbow
+6 = effect color B, rainbow
+7 = white color, rainbow
+
+8 = decal, no rainbow
+9 = decal, no rainbow
+10 = decal, no rainbow
+11 = decal, no rainbow
+12 = decal, rainbow
+13 = decal, rainbow
+14 = decal, rainbow
+15 = decal, rainbow
+
+16 > same, but dark
+
+blue:
+Amount of effect color, or in the case of decals, decal color index
+
+

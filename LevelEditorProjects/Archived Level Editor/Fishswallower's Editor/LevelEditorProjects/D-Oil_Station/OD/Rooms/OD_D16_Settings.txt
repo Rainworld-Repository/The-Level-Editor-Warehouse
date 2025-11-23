@@ -1,0 +1,4 @@
+Template: OD_SettingsTemplate_PumpG
+Grime: 0.3043478
+PlacedObjects: ReliableSpear><155.1553><265.126><, 
+FadePalette: 11, 0.7391304, 0.5434783, 0.3695652

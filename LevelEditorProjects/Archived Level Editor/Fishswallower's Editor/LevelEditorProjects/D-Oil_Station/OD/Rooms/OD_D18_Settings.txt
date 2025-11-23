@@ -1,0 +1,4 @@
+Template: OD_SettingsTemplate_PumpG
+Grime: 0.2826087
+Palette: 11
+FadePalette: 11, 0.2391304, 0.3586957

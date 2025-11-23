@@ -1,0 +1,5 @@
+Template: OD_SettingsTemplate_Transition
+Effects: Flies-0.2282609-30-30, RockFlea-0.2282609-40-40, Beetle-0.1413043-50-50, 
+PlacedObjects: LightSource><834.0508><298.6934><0.173913~Environment~7~365~50~86.60254~1~1, 
+AmbientSounds: SPOT><AM_ENV-LightWind.ogg><717.5859><519.8193><0.7608696><0.8630434><807.5859><307.8193><-72.35535><-62.35535><0><0.1760871, SPOT><SO_IND-Turbine.ogg><703.8001><508.0066><0.7934783><1><663.8001><628.0066><-148.3553><-172.3553><0><0.2195653, 
+FadePalette: 11, 0.1521739

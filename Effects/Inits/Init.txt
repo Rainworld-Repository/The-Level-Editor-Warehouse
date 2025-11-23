@@ -17,7 +17,8 @@
 [#nm:"OrbitPlant", #tp:"standardPlant", #vars:25, #pxlSz:point(80,80), #randomFlip:1, #pickColor:1, #hasGrad:1, #placeAmt:1, #szVar:[01, 1], #strengthAffectSize:1, #rootAmt:8]
 [#nm:"Saxifringe", #tp:"standardPlant", #vars:10, #pxlSz:point(60,60), #pickColor:1, #hasGrad:1, #randomFlip:1, #placeAmt:5, #szVar:[0.8, 1], #rotVar:10, #strengthAffectSize:0, #strengthAffectVar:0, #rootAmt:5]
 [#nm:"Plate Sprout", #tp:"standardPlant", #vars:7, #pxlSz:point(70,70), #pickColor:1, #hasGrad:1, #randomFlip:1, #placeAmt:5, #szVar:[0.8, 1], #rotVar:10, #strengthAffectSize:0, #strengthAffectVar:0, #rootAmt:5]
--IDDC Plants
+[#nm:"Pipe Growers", #tp: "grower", #vars: 12, #pxlSz: point(10, 25), #initRotVar: 60, #segmentRotVar: 60, #segmentRotPull: 0.60, #segmentMoveAmt: 22, #tipGraf: "Pipe Growers tips", #tipVars: 8, #tipPxlSz: point(10, 50), #tipMoveAmt: 47]
+[#nm:"Bamboo Pipe Growers", #tp: "grower", #vars: 12, #pxlSz: point(10, 60), #initRotVar: 20, #segmentRotVar: 50, #segmentRotPull: 0.10, #segmentMoveAmt: 57, #tipGraf: "Pipe Growers tips", #tipVars: 8, #tipPxlSz: point(10, 50), #tipMoveAmt: 47]-IDDC Plants
 [#nm:"IDDC_grower", #tp:"grower", #vars:10, #pxlSz:point(10,10), #pickColor:1, #hasGrad:0, #randomFlip:1, #initRotVar:60, #segmentRotVar:30, #segmentRotPull:0.6, #segmentMoveAmt: 4, #effectFadeOut:0.85, #effectFadeOut2:0.15]
 [#nm:"IDDC_grower-zoopy", #tp:"grower", #vars:10, #pxlSz:point(10,10), #pickColor:1, #hasGrad:0, #randomFlip:1, #initRotVar:180, #segmentRotVar:120, #segmentRotPull:0.9, #segmentMoveAmt: 4, #effectFadeOut:0.85, #effectFadeOut2:0.15]
 [#nm:"IDDC_Hangroot1", #tp:"hanger", #vars:15, #pxlSz:point(5,5), #pickColor:0, #hasgrad:0, #randomFlip:1, #initRotVar:60, #segmentRotVar:30, #segmentRotPull:0.6, #segmentMoveAmt: 4]

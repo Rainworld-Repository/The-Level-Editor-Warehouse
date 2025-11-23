@@ -1,0 +1,6 @@
+WhitePlate.png
+WhitePlateDiag.png
+WhitePlateDiagB.png
+WhitePlateHalf.png
+WhitePlateRing.png
+WhitePlateWindow.png

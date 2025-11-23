@@ -1,0 +1,2 @@
+PlacedObjects: LightSource><467.05><322.7507><0.2173913~Environment~176~223~-776~220.6025~1~1, LightSource><466.8965><327.6139><0.5978261~Environment~194~130~-714~25.60254~1~0, LightSource><476.3086><328.692><0.09782609~Environment~51~259~50~86.60254~1~1, 
+AmbientSounds: OMNI><SO_IND-Turbine.ogg><737.8127><505.5601><0.6630435><1, OMNI><SO_WAT-OpenFlow.ogg><726.6002><255.4231><0.2826087><0.8043478, 

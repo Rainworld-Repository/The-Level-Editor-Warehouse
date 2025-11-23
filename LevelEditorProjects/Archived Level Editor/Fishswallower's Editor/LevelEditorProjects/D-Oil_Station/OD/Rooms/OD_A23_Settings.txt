@@ -1,0 +1,8 @@
+Template: OD_SettingsTemplate_Transition
+DangerType: Rain
+Clouds: 0.7282609
+EffectColorA: 10
+Effects: LightBurn-0-30-30, Fog-0.5108696-20-20, 
+PlacedObjects: LightSource><758.6844><2039.325><0.2391304~Environment~-730~-2004~-313~-133.3975~1~1, LightSource><758.697><2036.715><0.173913~White~-739~-1991~-333~-201.3975~1~1, WholeScreenSpawner><145.1785><233.3132><-122~141~198^-90~1~1~0~0~10~0~50~0~20~False~0~10~0~True, WholeScreenSpawner><140.1785><189.3132><237~152~216^-69~1~1~0~0~10~0~50~0~20~False~0~10~0~True, WholeScreenSpawner><146.1785><210.3132><240~-173~214^-34~1~1~0~0~10~0~50~0~20~False~0~10~0~True, ParticleVisualCustomizer><179.9127><269.8663><-125~-220~FFFFFF~000000~FFFFFF~000000~232^-73~Foreground~mouseSparkA~False~1~0~30~0~20~0~Basic, PlacedWind><29.61359><740.8965><-13~1317~1347~1318~1345~-26~0.1086956~Creatures, 
+AmbientSounds: SPOT><AM_WIN-MedWind.ogg><893.1941><561.442><0><1.019565><640.1941><2027.442><-139.3553><-1194.355><0><0.7391304, SPOT><AM_WIN-StrongWnd2.ogg><720.6975><502.0314><0.8260869><1><636.6975><2024.173><48.64465><-1184.355><0><0.578261, SPOT><AM_WIN-HowlingWnd.ogg><825.6921><465.0558><0.2934783><1><645.6921><2027.056><-105.3553><-1189.355><0><0.4369566, SPOT><Noise Wind.wav><700.2516><354.45><0.4456522><1.078261><638.2516><2022.449><20.64465><-1190.355><0><0.3826088, 
+FadePalette: 11, 0, 0, 0.05434782
