@@ -7877,16 +7877,6 @@
 [#nm:"Small Barrier", #sz:point(3,2), #specs:[1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,3,2,3], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
 [#nm:"Ridged Tank", #sz:point(4,2), #specs:[1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,2,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
 
-
--["New Assets", color(180, 0, 255)]
--["plates", color(255, 50, 0)]
-
--["big engine plates", color(255, 50, 0)]
--["Cooler supports", color(0, 155, 0)]
-
--["Diagonal Thick Pipes", color(255, 255, 0)]
-
-
 -["Misc 2", color(239, 136, 190)]
 [#nm:"Back Ramp Down", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[5,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
 [#nm:"Back Ramp Up", #sz:point(1,1), #specs:[6], #specs2:0, #tp:"voxelStruct", #repeatL:[5,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
