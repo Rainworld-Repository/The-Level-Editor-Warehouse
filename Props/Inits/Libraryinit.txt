@@ -815,6 +815,10 @@
 [#nm:"Shortcut Entrance Conn", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(5,5), #repeatL:[1,7,2], #vars:4, #random:1, #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"Shortcut Square", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"squarehole 2x", #tp:"antimatter", #depth:9, #contourExp:1.0, #tags:[], #notes:[]]
+-["Overpowered Pizza", color(80, 255, 0)]
+[#nm:"Invis Shroom Stem", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Large Shroom Stem", #tp:"standard", #colorTreatment:"standard", #sz:point(2,1), #repeatL:[1,1,2,1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Small Shroom Stem", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,1,2,1], #tags:[], #layerExceptions:[], #notes:[]]
 -["Owlsquish", color(41, 255, 187)]
 [#nm:"Ashen Lantern", #tp:"standard", #colorTreatment:"bevel", #bevel:3, #sz:point(5,5), #repeatL:[2,1,2], #tags:["snapToGrid"], #layerExceptions:[], #notes:[]]
 -["Randoloper", color(196, 47, 241)]
@@ -829,6 +833,7 @@
 [#nm:"branch14x14fixed", #tp:"variedSoft", #pxlSize:point(280, 280), #vars:20, #random:1, #depth:0, #round:0, #contourExp:1, #selfShade:1, #highLightBorder:1.0, #depthAffectHilites:1, #shadowBorder:1, #smoothShading:20, #colorize:0, #tags:["randomFlipX"], #notes:[]]
 [#nm:"branch14x14STfixed", #tp:"variedStandard", #colorTreatment:"standard", #bevel:7, #sz:point(14,14), #repeatL:[0,1,1,1,1,1,1], #vars:20, #random:1, #colorize:0, #tags:["randomFlipX"], #layerExceptions:[], #notes:[]]
 -["Scuglat", color(0,0,16)]
+[#nm:"Sleeping Slugcats", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(2, 1), #repeatL:[1], #vars:8, #random:0, #tags:["effectColorA", "effectColorB"], #layerExceptions:[], #notes:[sleepy deepy]]
 [#nm:"Slugcat Plushie", #tp:"soft", #pxlSize:point(160, 220), #depth:5, #round:1, #contourExp:1, #selfShade:1, #highLightBorder:1.0, #depthAffectHilites:0, #shadowBorder:0.8, #smoothShading:5, #tags:[], #notes:[]]
 -["Seleniree", color(202, 0, 53)]
 [#nm:"DragonHead2", #tp:"soft", #depth:5, #round:0, #contourExp:0.8, #selfShade:1, #highLightBorder:0.4, #depthAffectHilites:0.2, #shadowBorder:0.9, #smoothShading:2, #tags:[], #notes:[]]
@@ -1106,4 +1111,3 @@
 [#nm:"TreeStalk", #tp:"soft", #depth:2, #round:0, #contourExp:1, #selfShade:1, #highLightBorder:1.0, #depthAffectHilites:0.6, #shadowBorder:0.8, #smoothShading:5, #colorize:1, #tags:["postEffects"], #notes:[]]
 [#nm:"TwoBalls_1_Prop", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(70, 40), #repeatL:[1], #tags:["effectColorA", "effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[]]
 [#nm:"WA BgPillar", #tp:"standard", #colorTreatment:"standard", #sz:point(5,50), #repeatL:[1,1,1,7], #tags:[], #layerExceptions:[], #notes:[]]
-
