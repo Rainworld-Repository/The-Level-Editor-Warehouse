@@ -46,6 +46,7 @@ Lime Cultivist for Forgotten Boiler
 Looks To the Luna for Seven Winding Tunnels
 LudoCrypt for Urban Resovoiur
 Markus for Chimney Leg and Expanded Subterranean
+Maxdubstep for Steel Mill
 MixaulianyWEW for Tainted Overpass
 Mojosoup for Purification Conduits
 Mold223 for Bioenginnering Center, The River and Coastal Building, Dusty Wireworks
@@ -55,6 +56,7 @@ MyztiLeaf Fleur for Frostfall Expanse, Blizzard's Embrance, Outpost Citadel, Con
 Myrmice for Scorched District, Pilgrims Ascent, Far Shore, Luminous Cove, Necropolis, Moss Fields, and Chasing Wind
 Mxyzptplk for Marked Block Sector
 Nautillo for Power Plant and Howling Rift
+Nicolas Dreams for The Pipe
 Nico for Urban Expanse
 NoPuddles for Western Intake
 NR for Cliffside Gardens
@@ -66,6 +68,7 @@ Para for Old Infrastructure and The Garden
 Parageist for Cliffside, Aquafir Tunnels, Fading Moonlight, Gloomy Marshland, Heart of the Jungle, Mountain Abound, Nascent Woods, Pipegrave, Rusted Basin, Smokestack Treetop, Sunlit Alleyways, and Withstanding Factory
 Polarunix for The Outline
 Joar and Primate for Chimney Canopy, Dense Urban, Shoreline, Superstructure, The Exterior, Sky Islands, Outskirts, Subterranean, Farm Arrays, Industrial Complex, Garbage Wastes, Drainage System, Shaded Citadel
+Propane for Skyport
 Redstone_Cato for Ferrous Steppes
 Rose for Auxiliary Intake
 ScoutRiley for Pearlescent Chambers and Icebreakers
@@ -81,6 +84,7 @@ The Community for Arid Barrens, Moonlit Arces, Drowned Pantheon, Gilded Sanctuar
 TotallyDutch for Corroded Manufactory and Industrial Outflow
 Tronsx for Forsaken Station and Forlorn Valley
 Tronsx and Thalber for Diverse Shelters
+TVfella for Derelict Installation
 Tyrn for Evergreen Expansion
 Turt for Curious Ascent
 Username for Dark Meadow
