@@ -34,7 +34,11 @@
 [#nm:"ColorBTinySignsRandom", #color:color(0, 210, 210), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:["effectColorB"]], #texture:[#sz:point(52, 40), #repeatL:[1], #tags:["effectColorB"]]]
 [#nm:"Hole Greeble", #color:color(132, 255, 246), #autofit:true]
 [#nm:"RoughRock2", #color:color(193, 108, 69), #pipelike:[#rnd:16, #depths:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9], #tags:[]]]
-
+[#nm:"HerringBricks", #color:color(160, 200, 130), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:[]], #texture:[#sz:point(2, 2), #repeatL:[1,1], #tags:[]]]
+[#nm:"SoldierBricks", #color:color(255, 160, 140), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:[]], #texture:[#sz:point(1, 1), #repeatL:[1,1], #tags:[]]]
+[#nm:"Soldier3DBricks", #color:color(255,100,30), #texture:[#sz:point(1,1), #repeatL:[1,1,1,7], #tags:["textureOnFloor"]]]
+[#nm:"StackBricks", #color:color(180, 160, 240), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:[]], #texture:[#sz:point(1, 1), #repeatL:[1,1], #tags:[]]]
+[#nm:"Stack3DBricks", #color:color(150,80,190), #texture:[#sz:point(1,1), #repeatL:[1,1,1,7], #tags:["textureOnFloor"]]]
 -Mer's Materials
 [#nm:"WeirdConcreate", #color:color(66, 245, 215), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:[]], #texture:[#sz:point(13, 13), #repeatL:[1,5], #tags:[]]]
 [#nm:"MerMachines", #color:color(245, 66, 144), #texture:[#sz:point(12, 12), #repeatL:[2,2,2,2,2], #tags:["textureOnFloor"]]]
