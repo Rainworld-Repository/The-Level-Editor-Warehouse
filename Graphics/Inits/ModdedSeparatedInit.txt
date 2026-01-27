@@ -2858,16 +2858,6 @@
 [#nm:"Dam Fan Casing UB", #sz:point(3,15), #specs:[1,1,1,5,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Dam Fan Casing UF", #sz:point(3,15), #specs:[1,1,1,5,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 
--["Color2 Window Segments", color(177, 255, 92)]
-[#nm:"color2 window segment N", #sz:point(1,1), #specs:[1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[4,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp", "color2 window"]]
-[#nm:"color2 window segment S", #sz:point(1,1), #specs:[1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[4,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp", "color2 window"]]
-[#nm:"color2 window segment W", #sz:point(1,1), #specs:[1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[4,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp", "color2 window"]]
-[#nm:"color2 window segment E", #sz:point(1,1), #specs:[1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[4,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp", "color2 window"]]
-[#nm:"color2 window segment Centre", #sz:point(1,1), #specs:[1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[4,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp", "color2 window"]]
-[#nm:"color2 window segment WN", #sz:point(1,1), #specs:[1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[4,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp", "color2 window"]]
-[#nm:"color2 window segment EN", #sz:point(1,1), #specs:[1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[4,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp", "color2 window"]]
-[#nm:"color2 window segment WS", #sz:point(1,1), #specs:[1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[4,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp", "color2 window"]]
-[#nm:"color2 window segment ES", #sz:point(1,1), #specs:[1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[4,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp", "color2 window"]]
 
 -["Modded Signs", color(0, 180, 255)]
 [#nm:"Horizontal Sign Lines", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,2,2,2,2], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["effectColorA", "notTrashProp"]]
