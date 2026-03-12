@@ -1,9 +1,0 @@
--New Assets
-[#nm:"ChaoticBricks", #color:color(210, 180, 180), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:[]], #texture:[#sz:point(5, 5), #repeatL:[1,1], #tags:[]]]
-[#nm:"Chaotic3DBricks", #color:color(255,150,50), #texture:[#sz:point(5,5), #repeatL:[1,1,1,7], #tags:["textureOnFloor"]]]
-[#nm:"FlemishBricks", #color:color(210, 220, 180), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:[]], #texture:[#sz:point(3, 3), #repeatL:[1,1], #tags:[]]]
-[#nm:"HerringBricks", #color:color(160, 200, 130), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:[]], #texture:[#sz:point(2, 2), #repeatL:[1,1], #tags:[]]]
-[#nm:"SoldierBricks", #color:color(255, 160, 140), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:[]], #texture:[#sz:point(1, 1), #repeatL:[1,1], #tags:[]]]
-[#nm:"Soldier3DBricks", #color:color(255,100,30), #texture:[#sz:point(1,1), #repeatL:[1,1,1,7], #tags:["textureOnFloor"]]]
-[#nm:"StackBricks", #color:color(180, 160, 240), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:[]], #texture:[#sz:point(1, 1), #repeatL:[1,1], #tags:[]]]
-[#nm:"Stack3DBricks", #color:color(150,80,190), #texture:[#sz:point(1,1), #repeatL:[1,1,1,7], #tags:["textureOnFloor"]]]
