@@ -430,7 +430,7 @@
 [#nm:"Stonehead Figure", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(2,2), #repeatL:[1,1,1,1,2,1], #tags:["notTrashProp"], #layerExceptions:[], #notes:[]]
 [#nm:"Odd Tool", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(3,3), #repeatL:[1,1,1,1], #tags:["notTrashProp"], #layerExceptions:[], #notes:[]]
 
--["Clothes", color(0, 0, 255)]
+-["Cloths", color(0, 0, 255)]
 
 [#nm:"LFcloth", #tp:"variedSoft", #pxlSize:point(650, 300), #vars:6, #random:0, #depth:4, #round:0, #contourExp:1, #selfShade:1, #highLightBorder:1.0, #depthAffectHilites:0.2, #shadowBorder:0.8, #smoothShading:2, #colorize:1, #tags:["postEffects"], #notes:[]]
 [#nm:"LFclothColorA", #tp:"variedSoft", #pxlSize:point(650, 300), #vars:6, #random:0, #depth:4, #round:0, #contourExp:1, #selfShade:1, #highLightBorder:1.0, #depthAffectHilites:0.2, #shadowBorder:0.8, #smoothShading:2, #colorize:0, #tags:["postEffects", "effectColorA"], #notes:[]]
@@ -1165,7 +1165,7 @@
 [#nm:"Shape", #tp:"standard", #colorTreatment:"standard", #sz:point(10,10), #repeatL:[1,8,1], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"2000sphere", #tp:"soft", #pxlSize:point(2000,2000), #depth:10, #round:0, #contourExp:2, #selfShade:0, #highLightBorder:0, #depthAffectHilites:0, #shadowBorder:0, #smoothShading:0, #colorize:0, #tags:[], #notes:[]]
 [#nm:"Slugcat Plushie", #tp:"soft", #pxlSize:point(160, 220), #depth:5, #round:1, #contourExp:1, #selfShade:1, #highLightBorder:1.0, #depthAffectHilites:0, #shadowBorder:0.8, #smoothShading:5, #tags:[], #notes:[]]
-[#nm:"Sleeping Slugcats", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(2, 1), #repeatL:[1], #vars:8, #random:0, #tags:["effectColorA", "effectColorB"], #layerExceptions:[], #notes:[sleepy deepy]]
+[#nm:"Sleeping Slugcats", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(2, 1), #repeatL:[1], #vars:8, #random:0, #tags:["effectColorA", "effectColorB"], #layerExceptions:[], #notes:["sleepy deepy"]]
 
 -["Custom Rope Props", color(180, 23, 255)]
 [#nm:"Plain Pipe Rope",#tp:"customRope", #colorTreatment:"standard", #depth:10, #pixelSize:point(20, 20), #segmentLength:10, #repeatL:[1,1,1,4,1,1,1], #vars:1, #random:0, #tags:[], #notes:[], #collisionDepth:3, #segRad:2.8, #grav:0.8, #friction:0.7, #airFric:0.9, #stiff:1, #previewColor:color(53, 110, 53), #previewEvery:3, #edgeDirection:0.1, #rigid:0.2, #selfPush:3.2, #sourcePush:0]
@@ -1175,5 +1175,3 @@
 [#nm:"Thick PipeRope",#tp:"customRope", #colorTreatment:"standard", #depth:10, #pixelSize:point(40, 40), #segmentLength:20, #repeatL:[1,1,1,4,1,1,1], #vars:1, #random:0, #tags:[], #notes:[], #collisionDepth:3, #segRad:2.8, #grav:0.8, #friction:0.7, #airFric:0.9, #stiff:1, #previewColor:color(110, 110, 110), #previewEvery:3, #edgeDirection:0.1, #rigid:0.2, #selfPush:3.2, #sourcePush:0]
 [#nm:"ChasmBridge", #tp:"customRope", #colorTreatment:"standard", #depth:10, #pixelSize:point(6, 16), #segmentLength:16, #repeatL:[1,8,1], #vars:4, #random:1, #tags:[], #notes:[], #collisionDepth:10, #segRad:2.8, #grav:0.8, #friction:0.7, #airFric:0.9, #stiff:1, #previewColor:color(255, 50, 200), #previewEvery:3, #edgeDirection:0.1, #rigid:0.2, #selfPush:3.2, #sourcePush:0]
 [#nm:"ChasmBridgeRope", #tp:"customRope", #colorTreatment:"standard", #depth:1, #pixelSize:point(6, 16), #segmentLength:16, #repeatL:[1], #vars:1, #random:1, #tags:[], #notes:[], #collisionDepth:10, #segRad:2.8, #grav:0.8, #friction:0.7, #airFric:0.9, #stiff:1, #previewColor:color(255, 50, 200), #previewEvery:3, #edgeDirection:0.1, #rigid:0.2, #selfPush:3.2, #sourcePush:0]
-
--["New Assets", color(180, 0, 255)]
