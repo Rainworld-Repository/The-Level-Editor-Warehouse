@@ -1,5 +1,7 @@
 -Alduris
 [#nm:"InsetTinySigns", #color:color(150, 150, 255), #block:[#repeatL:[2,8], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:[]], #texture:[#sz:point(52, 40), #repeatL:[1], #tags:[]]]
+-Antn
+[#nm:"TesterMatter", #color:color(110, 76, 100), #texture:[#sz:point(4, 4), #repeatL:[10], #tags:["textureOnFloor"]]]
 -LudoCrypt
 [#nm:"ConcreteCellularBarbed", #color:color(64, 49, 107), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:[]], #texture:[#sz:point(48, 48), #repeatL:[1,1], #tags:[]]]
 [#nm:"ConcreteCellularBulbs", #color:color(48, 33, 80), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:[]], #texture:[#sz:point(48, 48), #repeatL:[1,1], #tags:[]]]

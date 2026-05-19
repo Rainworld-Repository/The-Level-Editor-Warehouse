@@ -22,6 +22,7 @@
 [#nm:"IDDC_grower", #tp:"grower", #vars:10, #pxlSz:point(10,10), #pickColor:1, #hasGrad:0, #randomFlip:1, #initRotVar:60, #segmentRotVar:30, #segmentRotPull:0.6, #segmentMoveAmt: 4, #effectFadeOut:0.85, #effectFadeOut2:0.15]
 [#nm:"IDDC_grower-zoopy", #tp:"grower", #vars:10, #pxlSz:point(10,10), #pickColor:1, #hasGrad:0, #randomFlip:1, #initRotVar:180, #segmentRotVar:120, #segmentRotPull:0.9, #segmentMoveAmt: 4, #effectFadeOut:0.85, #effectFadeOut2:0.15]
 [#nm:"IDDC_Hangroot1", #tp:"hanger", #vars:15, #pxlSz:point(5,5), #pickColor:0, #hasgrad:0, #randomFlip:1, #initRotVar:60, #segmentRotVar:30, #segmentRotPull:0.6, #segmentMoveAmt: 4]
+[#nm:"CircuitGrowers", #tp:"grower", #vars:13, #pxlSz:point(20,50), #pickColor:1, #hasGrad:1, #randomFlip:1, #initRotVar:0, #segmentRotVar:0, #segmentRotPull:0, #segmentMoveAmt:30, #tipGraf: "CircuitGrowersTip", #tipVars:7, #tipPxlSz: point(20, 50), #tipMoveAmt:30]
 -Mer's Plants
 [#nm:"Capricho Death", #tp:"standardPlant", #vars:12, #pxlSz:point(40,80), #pickColor:1, #hasGrad:1, #randomFlip:1, #placeAmt:2, #szVar:[0.3, 1], #rotVar:15, #strengthAffectSize:1, #strengthAffectVar:0, #rootAmt:3]
 
@@ -56,6 +57,7 @@
 [#nm:"BlueRustStreaks", #tp:"texture", #vars:32, #pxlSz:point(26, 40), #placeAmt:20, #strengthAffectVar:0, #pickColor:0, #hasGrad:0, #randomFlip:0, #bleed:9, #clrMask:2, #affectOpenAreas:0.5, #requireSolid:1]
 [#nm:"SplotRustStreaks", #tp:"texture", #vars:64, #pxlSz:point(26, 40), #placeAmt:20, #strengthAffectVar:0, #pickColor:0, #hasGrad:0, #randomFlip:0, #bleed:9, #clrMask:2, #affectOpenAreas:0.5, #requireSolid:1]
 [#nm:"SunRust1", #tp:"texture", #vars:20, #pxlSz:point(16, 16), #placeAmt:5, #strengthAffectVar:0, #pickColor:0, #hasGrad:0, #randomFlip:1, #bleed:9, #clrMask:7, #affectOpenAreas:0.5, #requireSolid:1]
+[#nm:"Metal Trash", #tp:"standardPlant", #vars: 7, #pxlSz: point(60, 180), #pickColor: 1, #hasGrad: 0, #placeAmt: 7, #szVar: [0.8, 1.4], #rotVar: 23, #strengthAffectSize: 1, #randomFlip: 1, #rootAmt: 4]
 
 -Silly
 [#nm:"slugeffect", #tp:"grower", #vars:13, #pxlSz:point(20,50), #pickColor:1, #hasGrad:1, #randomFlip:1, #initRotVar:50, #segmentRotVar:30, #segmentRotPull:0.75, #segmentMoveAmt: 30, #effectFadeOut:0.85, #effectFadeOut2:0.15]

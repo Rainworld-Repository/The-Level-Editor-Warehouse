@@ -1,0 +1,2 @@
+-New Assets
+[#nm:"TesterMatter", #color:color(110, 76, 100), #texture:[#sz:point(4, 4), #repeatL:[10], #tags:["textureOnFloor"]]]

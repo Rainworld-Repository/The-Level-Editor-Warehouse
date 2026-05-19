@@ -458,6 +458,7 @@
 [#nm:"Cog1_6x12x12", #tp:"standard", #colorTreatment:"standard", #sz:point(12,12), #repeatL:[1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"Cog2_6x12x12", #tp:"standard", #colorTreatment:"standard", #sz:point(12,12), #repeatL:[1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"Cog3_8x16x12", #tp:"standard", #colorTreatment:"standard", #sz:point(16,12), #repeatL:[1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Ap Cog 1", #tp:"standard", #colorTreatment:"bevel", #bevel:2, #sz:point(12,12), #repeatL:[1,1,2], #tags:["randomRotat"], #layerExceptions:[], #notes:[]]
 [#nm:"Giant Cog", #tp:"standard", #colorTreatment:"standard", #sz:point(15,15), #repeatL:[3, 5, 3], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"Giant Cog Broken", #tp:"standard", #colorTreatment:"standard", #sz:point(15,15), #repeatL:[3, 5, 3], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"WeirdCog1", #tp:"standard", #colorTreatment:"bevel", #bevel:2, #sz:point(6,6), #repeatL:[1,1,1], #tags:["randomRotat"], #layerExceptions:[], #notes:[]]
@@ -525,6 +526,10 @@
 [#nm:"DDB2", #tp:"soft", #depth:15, #round:1, #contourExp:0.8, #selfShade:1, #highLightBorder:0.4, #depthAffectHilites:0.4, #shadowBorder:0.9, #smoothShading:2, #tags:[], #notes:[]]
 [#nm:"DDB1", #tp:"soft", #depth:15, #round:1, #contourExp:0.8, #selfShade:1, #highLightBorder:0.4, #depthAffectHilites:0.4, #shadowBorder:0.9, #smoothShading:2, #tags:[], #notes:[]]
 [#nm:"ArchimedesScrew", #tp:"soft", #depth:10, #round:0, #contourExp:1, #selfShade:0, #highLightBorder:1.0, #depthAffectHilites:0, #shadowBorder:0.8, #smoothShading:5, #tags:[], #notes:[]]
+[#nm:"Hexa Plate S", #tp:"standard", #colorTreatment:"standard", #bevel:3, #sz:point(5,6), #repeatL:[1,1,1], #tags:["notTrashProp"], #layerExceptions:[], #notes:[]]
+[#nm:"Hexa Plate S Alt", #tp:"standard", #colorTreatment:"standard", #bevel:3, #sz:point(5,4), #repeatL:[1,1,1], #tags:["notTrashProp"], #layerExceptions:[], #notes:[]]
+[#nm:"Hexa Plate", #tp:"standard", #colorTreatment:"standard", #bevel:3, #sz:point(8,10), #repeatL:[1,1,1], #tags:["notTrashProp"], #layerExceptions:[], #notes:[]]
+[#nm:"Hexa Plate Alt", #tp:"standard", #colorTreatment:"standard", #bevel:3, #sz:point(10,8), #repeatL:[1,1,1], #tags:["notTrashProp"], #layerExceptions:[], #notes:[]]
 
 -["Gizmos", color(80, 255, 80)]
 [#nm:"Gate Frame", #tp:"standard", #colorTreatment:"bevel", #bevel:2, #sz:point(3,7), #repeatL:[2], #tags:[], #layerExceptions:[], #notes:[]]

@@ -1,13 +1,6 @@
 -["New Assets", color(180, 0, 255)]
-[#nm:"Retro Memory Plate H", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(9,5), #repeatL:[1,1,1,1,1,1,1,1,1,1], #vars:2, #random:0, #tags:[], #layerExceptions:[], #notes:[]]
-[#nm:"Retro Memory Plate V", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(5,9), #repeatL:[1,1,1,1,1,1,1,1,1,1], #vars:2, #random:0, #tags:[], #layerExceptions:[], #notes:[]]
-[#nm:"Retro Memory White Plate H", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(9,5), #repeatL:[1,1,1,1,1,1,1,1,1,1], #vars:2, #random:0, #tags:["colored"], #layerExceptions:[], #notes:[]]
-[#nm:"Retro Memory White Plate V", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(5,9), #repeatL:[1,1,1,1,1,1,1,1,1,1], #vars:2, #random:0, #tags:["colored"], #layerExceptions:[], #notes:[]]
-[#nm:"Palm Crown Effect Color A", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(13,16), #repeatL:[1,1,1,1], #vars:7, #random:0, #tags:["effectColorA", "notTrashProp"], #layerExceptions:[], #notes:[]]
-[#nm:"Palm Crown Effect Color B", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(13,16), #repeatL:[1,1,1,1], #vars:7, #random:0, #tags:["effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[]]
-
-[#nm:"Palm Stem Color A", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(10,25), #repeatL:[1,1,1,1,1], #vars:7, #random:0, #tags:["effectColorA", "notTrashProp"], #layerExceptions:[], #notes:[]]
-[#nm:"Palm Stem Color B", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(10,25), #repeatL:[1,1,1,1,1], #vars:7, #random:0, #tags:["effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[]]
-
-[#nm:"Palm Stem Color A Flat", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(10,25), #repeatL:[1,1,1], #vars:7, #random:0, #tags:["effectColorA", "notTrashProp"], #layerExceptions:[], #notes:[]]
-[#nm:"Palm Stem Color B Flat", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(10,25), #repeatL:[1,1,1], #vars:7, #random:0, #tags:["effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[]]
+[#nm:"Hexa Plate S", #tp:"standard", #colorTreatment:"standard", #bevel:3, #sz:point(5,6), #repeatL:[1,1,1], #tags:["notTrashProp"], #layerExceptions:[], #notes:[]]
+[#nm:"Hexa Plate S Alt", #tp:"standard", #colorTreatment:"standard", #bevel:3, #sz:point(5,4), #repeatL:[1,1,1], #tags:["notTrashProp"], #layerExceptions:[], #notes:[]]
+[#nm:"Hexa Plate", #tp:"standard", #colorTreatment:"standard", #bevel:3, #sz:point(8,10), #repeatL:[1,1,1], #tags:["notTrashProp"], #layerExceptions:[], #notes:[]]
+[#nm:"Hexa Plate Alt", #tp:"standard", #colorTreatment:"standard", #bevel:3, #sz:point(10,8), #repeatL:[1,1,1], #tags:["notTrashProp"], #layerExceptions:[], #notes:[]]
+[#nm:"Ap Cog 1", #tp:"standard", #colorTreatment:"bevel", #bevel:2, #sz:point(12,12), #repeatL:[1,1,2], #tags:["randomRotat"], #layerExceptions:[], #notes:[]]
